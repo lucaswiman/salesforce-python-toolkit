@@ -642,7 +642,7 @@ class SforceBaseClientTest(unittest.TestCase):
 
   def testQueryAllOneResultWithoutFirstName(self):
     result = self.h.queryAll('SELECT Account.Name, FirstName, LastName FROM Contact WHERE FirstName = NULL LIMIT 1')
-    print result
+    print(result)
     
     self.assertEqual(len(result.records), 1)
     self.assertEqual(result.size, 1)

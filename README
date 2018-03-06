@@ -80,7 +80,7 @@ lead.FirstName = 'Joe'
 lead.LastName = 'Moke'
 lead.Company = 'Jamoke, Inc.'
 
-print lead
+print(lead)
 
 outputs this:
 

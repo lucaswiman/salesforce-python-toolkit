@@ -188,8 +188,8 @@ queryAll()
 ----------
 result = h.queryAll('SELECT Account.Name, FirstName, LastName FROM Contact LIMIT 2')
 for record in result.records:
-  print record.FirstName, record.LastName
-  print record.Account.Name
+  print(record.FirstName, record.LastName)
+  print(record.Account.Name)
 
 
 queryMore()

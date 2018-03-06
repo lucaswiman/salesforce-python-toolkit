@@ -111,7 +111,7 @@ Salesforce will use HTTPS.')
     try:
       return self._sforce.factory.create(sObjectType)
     except:
-      print 'There is not a SOAP header of type %s' % sObjectType
+      print('There is not a SOAP header of type %s' % sObjectType)
 
   def generateObject(self, sObjectType):
     '''
