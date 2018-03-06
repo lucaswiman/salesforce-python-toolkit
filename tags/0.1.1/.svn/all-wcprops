@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/5/tags/0.1.1
+END
+EXAMPLES
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5/tags/0.1.1/EXAMPLES
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/5/tags/0.1.1/LICENSE
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/5/tags/0.1.1/TODO
+END
+HACKS
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/5/tags/0.1.1/HACKS
+END
+FUTURE
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5/tags/0.1.1/FUTURE
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5/tags/0.1.1/README
+END
