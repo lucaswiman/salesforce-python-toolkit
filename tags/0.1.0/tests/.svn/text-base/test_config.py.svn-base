@@ -1,3 +1,0 @@
-USERNAME = ''
-PASSWORD = ''
-TOKEN = ''
